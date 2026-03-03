@@ -1,0 +1,2321 @@
+Specimen,Setting_cat,Organism_group,Organism,Total_isolates,Antibiotic,Susceptibility_%
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,AMIKACIN,100.0
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CEFTAZIDIME,6.94444465637207
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CEFTRIAXONE,1.388888955116272
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CIPROFLOXACIN,9.722222328186035
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CLINDAMYCIN,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,CO-TRIMOXAZOLE,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,COLISTIN BY MIC,100.0
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,ERTAPENEM,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,ERYTHROMYCIN,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,GENTAMICIN,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,IMIPENEM,6.94444465637207
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,LEVOFLOXACIN,11.11111164093018
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,MEROPENEM,6.94444465637207
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,PENICILLIN BY MIC,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,PIPERACILLIN / TAZOBACTAM,4.225351810455322
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,TETRACYCLINE,
+All Specimen,ICU,Gram negative,Acinetobacter calcoaceticus-baumannii complex,72.0,VANCOMYCIN,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,AMIKACIN,94.44444274902344
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,AMOXICILLIN/ CLAVULANIC ACID,50.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CEFOPERAZONE / SULBACTAM,50.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CEFTAZIDIME,44.4444465637207
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CEFTRIAXONE,33.33333587646484
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CIPROFLOXACIN,50.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CLINDAMYCIN,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,CO-TRIMOXAZOLE,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,COLISTIN BY MIC,100.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,ERTAPENEM,61.11111068725586
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,ERYTHROMYCIN,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,GENTAMICIN,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,IMIPENEM,66.66667175292969
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,LEVOFLOXACIN,50.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,MEROPENEM,66.66667175292969
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,PENICILLIN BY MIC,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,PIPERACILLIN / TAZOBACTAM,50.0
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,TETRACYCLINE,
+All Specimen,ICU,Gram negative,Klebsiella pneumoniae (all isolates),18.0,VANCOMYCIN,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,AMIKACIN,100.0
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CEFTAZIDIME,68.18181610107422
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CEFTRIAXONE,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CIPROFLOXACIN,86.36363983154297
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CLINDAMYCIN,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,CO-TRIMOXAZOLE,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,COLISTIN BY MIC,86.36363410949707
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,ERTAPENEM,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,ERYTHROMYCIN,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,GENTAMICIN,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,IMIPENEM,81.81818389892578
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,LEVOFLOXACIN,77.2727279663086
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,MEROPENEM,80.95238494873047
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,PENICILLIN BY MIC,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,PIPERACILLIN / TAZOBACTAM,55.0
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,TETRACYCLINE,
+All Specimen,ICU,Gram negative,Pseudomonas aeruginosa (all isolates),22.0,VANCOMYCIN,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,AMIKACIN,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,AMOXICILLIN/ CLAVULANIC ACID,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CEFTAZIDIME,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CEFTRIAXONE,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CIPROFLOXACIN,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CLINDAMYCIN,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,CO-TRIMOXAZOLE,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,COLISTIN BY MIC,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,ERTAPENEM,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,ERYTHROMYCIN,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,GENTAMICIN,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,IMIPENEM,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,LEVOFLOXACIN,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,MEROPENEM,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,PENICILLIN BY MIC,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,PIPERACILLIN / TAZOBACTAM,100.0
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,TETRACYCLINE,
+All Specimen,ICU,Gram negative,Stenotrophomonas maltophilia,2.0,VANCOMYCIN,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,AMIKACIN,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CEFTAZIDIME,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CEFTRIAXONE,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CIPROFLOXACIN,100.0
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CLINDAMYCIN,75.0
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,CO-TRIMOXAZOLE,87.5
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,COLISTIN BY MIC,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,ERTAPENEM,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,ERYTHROMYCIN,75.0
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,GENTAMICIN,87.5
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,IMIPENEM,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,LEVOFLOXACIN,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,MEROPENEM,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,PENICILLIN BY MIC,0.0
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,TETRACYCLINE,25.0
+All Specimen,ICU,Gram positive,Staphylococcus aureus (all isolates),8.0,VANCOMYCIN,87.5
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,AMIKACIN,100.0
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CEFTAZIDIME,11.56069374084473
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CEFTRIAXONE,5.202311992645264
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CIPROFLOXACIN,15.60693645477295
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CLINDAMYCIN,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,CO-TRIMOXAZOLE,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,COLISTIN BY MIC,99.41520309448242
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,ERTAPENEM,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,ERYTHROMYCIN,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,GENTAMICIN,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,IMIPENEM,15.02890110015869
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,LEVOFLOXACIN,15.02890110015869
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,MEROPENEM,13.87283229827881
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,PENICILLIN BY MIC,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,PIPERACILLIN / TAZOBACTAM,9.411765098571776
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,TETRACYCLINE,
+All Specimen,Inpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,173.0,VANCOMYCIN,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,AMIKACIN,87.5
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,AMOXICILLIN/ CLAVULANIC ACID,63.88888931274414
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CEFOPERAZONE / SULBACTAM,85.41667175292969
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CEFTAZIDIME,63.88888931274414
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CEFTRIAXONE,49.3055534362793
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CIPROFLOXACIN,20.83333206176757
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CLINDAMYCIN,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,CO-TRIMOXAZOLE,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,COLISTIN BY MIC,99.30555534362792
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,ERTAPENEM,90.97222137451172
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,ERYTHROMYCIN,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,GENTAMICIN,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,IMIPENEM,91.66667175292967
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,LEVOFLOXACIN,17.36111068725586
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,MEROPENEM,91.66667175292967
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,PENICILLIN BY MIC,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,PIPERACILLIN / TAZOBACTAM,77.08332824707031
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,TETRACYCLINE,
+All Specimen,Inpatient,Gram negative,Escherichia coli (all isolates),144.0,VANCOMYCIN,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,AMIKACIN,92.46575164794922
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,AMOXICILLIN/ CLAVULANIC ACID,63.69863128662109
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CEFOPERAZONE / SULBACTAM,78.08219146728516
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CEFTAZIDIME,65.75342559814453
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CEFTRIAXONE,60.27397537231445
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CIPROFLOXACIN,53.42465591430664
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CLINDAMYCIN,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,CO-TRIMOXAZOLE,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,COLISTIN BY MIC,97.24137496948242
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,ERTAPENEM,86.3013687133789
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,ERYTHROMYCIN,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,GENTAMICIN,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,IMIPENEM,89.04109954833984
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,LEVOFLOXACIN,52.05479431152344
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,MEROPENEM,87.67123413085938
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,PENICILLIN BY MIC,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,PIPERACILLIN / TAZOBACTAM,69.6551742553711
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,TETRACYCLINE,
+All Specimen,Inpatient,Gram negative,Klebsiella pneumoniae (all isolates),146.0,VANCOMYCIN,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,AMIKACIN,100.0
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CEFTAZIDIME,72.83950805664062
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CEFTRIAXONE,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CIPROFLOXACIN,83.95061492919922
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CLINDAMYCIN,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,CO-TRIMOXAZOLE,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,COLISTIN BY MIC,93.82716178894044
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,ERTAPENEM,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,ERYTHROMYCIN,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,GENTAMICIN,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,IMIPENEM,84.81012725830078
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,LEVOFLOXACIN,75.30864715576172
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,MEROPENEM,77.77777862548828
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,PENICILLIN BY MIC,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,PIPERACILLIN / TAZOBACTAM,61.7283935546875
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,TETRACYCLINE,
+All Specimen,Inpatient,Gram negative,Pseudomonas aeruginosa (all isolates),81.0,VANCOMYCIN,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,AMIKACIN,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CEFTAZIDIME,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CEFTRIAXONE,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CIPROFLOXACIN,95.52238464355467
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CLINDAMYCIN,77.6119384765625
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,CO-TRIMOXAZOLE,98.50746154785156
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,COLISTIN BY MIC,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,ERTAPENEM,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,ERYTHROMYCIN,73.13432312011719
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,GENTAMICIN,98.50746154785156
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,IMIPENEM,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,LEVOFLOXACIN,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,MEROPENEM,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,PENICILLIN BY MIC,22.38805961608887
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,TETRACYCLINE,49.25373077392578
+All Specimen,Inpatient,Gram positive,Staphylococcus aureus (all isolates),67.0,VANCOMYCIN,98.5
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,AMIKACIN,100.0
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CEFTAZIDIME,44.06779861450195
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CEFTRIAXONE,8.474576950073242
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CIPROFLOXACIN,47.45762634277344
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CLINDAMYCIN,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,CO-TRIMOXAZOLE,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,COLISTIN BY MIC,100.0
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,ERTAPENEM,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,ERYTHROMYCIN,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,GENTAMICIN,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,IMIPENEM,47.45762634277344
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,LEVOFLOXACIN,50.84745788574219
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,MEROPENEM,47.45762634277344
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,PENICILLIN BY MIC,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,PIPERACILLIN / TAZOBACTAM,42.85714340209961
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,TETRACYCLINE,
+All Specimen,Outpatient,Gram negative,Acinetobacter calcoaceticus-baumannii complex,59.0,VANCOMYCIN,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,AMIKACIN,90.93655395507812
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,AMOXICILLIN/ CLAVULANIC ACID,65.25679779052734
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CEFOPERAZONE / SULBACTAM,92.7492446899414
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CEFTAZIDIME,76.7371597290039
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CEFTRIAXONE,58.61027145385742
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CIPROFLOXACIN,26.58610343933105
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CLINDAMYCIN,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,CO-TRIMOXAZOLE,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,COLISTIN BY MIC,98.79154062271118
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,ERTAPENEM,95.77039337158205
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,ERYTHROMYCIN,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,GENTAMICIN,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,IMIPENEM,96.6767349243164
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,LEVOFLOXACIN,22.96072578430176
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,MEROPENEM,96.6767349243164
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,PENICILLIN BY MIC,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,PIPERACILLIN / TAZOBACTAM,83.28267669677734
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,TETRACYCLINE,
+All Specimen,Outpatient,Gram negative,Escherichia coli (all isolates),331.0,VANCOMYCIN,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,AMIKACIN,98.02631378173828
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,AMOXICILLIN/ CLAVULANIC ACID,66.44737243652344
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CEFOPERAZONE / SULBACTAM,90.13158416748048
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CEFTAZIDIME,65.13158416748047
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CEFTRIAXONE,61.18420791625977
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CIPROFLOXACIN,44.07894515991211
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CLINDAMYCIN,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,CO-TRIMOXAZOLE,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,COLISTIN BY MIC,98.6842155456543
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,ERTAPENEM,94.07894897460938
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,ERYTHROMYCIN,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,GENTAMICIN,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,IMIPENEM,94.73684692382812
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,LEVOFLOXACIN,44.07894515991211
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,MEROPENEM,94.73684692382812
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,PENICILLIN BY MIC,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,PIPERACILLIN / TAZOBACTAM,77.63158416748047
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,TETRACYCLINE,
+All Specimen,Outpatient,Gram negative,Klebsiella pneumoniae (all isolates),152.0,VANCOMYCIN,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,AMIKACIN,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CEFTAZIDIME,89.09090423583984
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CEFTRIAXONE,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CIPROFLOXACIN,92.59259033203124
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CLINDAMYCIN,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,CO-TRIMOXAZOLE,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,COLISTIN BY MIC,92.72727012634276
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,ERTAPENEM,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,ERYTHROMYCIN,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,GENTAMICIN,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,IMIPENEM,92.59259033203124
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,LEVOFLOXACIN,85.45454406738281
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,MEROPENEM,92.59259033203124
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,PENICILLIN BY MIC,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,PIPERACILLIN / TAZOBACTAM,79.62963104248047
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,TETRACYCLINE,
+All Specimen,Outpatient,Gram negative,Pseudomonas aeruginosa (all isolates),55.0,VANCOMYCIN,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,AMIKACIN,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CEFTAZIDIME,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CEFTRIAXONE,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CIPROFLOXACIN,94.20289611816406
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CLINDAMYCIN,79.71014404296875
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,CO-TRIMOXAZOLE,94.20289611816406
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,COLISTIN BY MIC,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,ERTAPENEM,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,ERYTHROMYCIN,76.81159210205078
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,GENTAMICIN,95.65217590332033
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,IMIPENEM,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,LEVOFLOXACIN,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,MEROPENEM,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,PENICILLIN BY MIC,10.14492702484131
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,TETRACYCLINE,36.23188400268555
+All Specimen,Outpatient,Gram positive,Staphylococcus aureus (all isolates),69.0,VANCOMYCIN,100.0
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,AMIKACIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,AMPICILLIN,0.0
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CEFTAZIDIME,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CEFTRIAXONE,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CHLORAMPHENICOL,100.0
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,CO-TRIMOXAZOLE,100.0
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,IMIPENEM,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,MEROPENEM,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,TETRACYCLINE,0.0
+All Specimen,Overall,Gram negative,(Sterile sites) b,1.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,AMIKACIN,100.0
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CEFTAZIDIME,17.01388931274414
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CEFTRIAXONE,5.208333015441895
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CIPROFLOXACIN,20.48611068725586
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,COLISTIN BY MIC,99.64028549194336
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,IMIPENEM,19.44444465637207
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,LEVOFLOXACIN,21.18055534362793
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,MEROPENEM,18.75
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,PIPERACILLIN / TAZOBACTAM,14.2348747253418
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,288.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,AMIKACIN,90.90909576416016
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CEFTAZIDIME,81.81818389892578
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CEFTRIAXONE,54.54545593261719
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CIPROFLOXACIN,81.81818389892578
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,IMIPENEM,90.90909576416016
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,MEROPENEM,90.90909576416016
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,PIPERACILLIN / TAZOBACTAM,40.0
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Acinetobacter spp.,11.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,AMIKACIN,85.18518829345703
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CEFOPERAZONE / SULBACTAM,77.77777862548828
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CEFTAZIDIME,59.25925827026367
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CEFTRIAXONE,53.70370101928711
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CIPROFLOXACIN,62.96295928955078
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,COLISTIN BY MIC,79.62962865829468
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,ERTAPENEM,83.33332824707031
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,IMIPENEM,87.03704071044922
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,LEVOFLOXACIN,61.11111068725586
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,MEROPENEM,92.59259033203124
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,PIPERACILLIN / TAZOBACTAM,61.11111068725586
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Enterobacter cloacae,54.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,AMIKACIN,90.83769989013672
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,AMOXICILLIN/ CLAVULANIC ACID,68.45549774169922
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CEFOPERAZONE / SULBACTAM,92.40837860107422
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CEFTAZIDIME,77.35602569580078
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CEFTRIAXONE,59.55497741699219
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CIPROFLOXACIN,30.49738121032715
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,COLISTIN BY MIC,97.90576028823853
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,ERTAPENEM,95.2879638671875
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,IMIPENEM,95.54973602294922
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,LEVOFLOXACIN,25.26177978515625
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,MEROPENEM,95.81151580810548
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,PIPERACILLIN / TAZOBACTAM,84.12073516845703
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Escherichia coli (all isolates),764.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,AMIKACIN,100.0
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CEFOPERAZONE / SULBACTAM,100.0
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CEFTAZIDIME,90.90909576416016
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CEFTRIAXONE,81.81818389892578
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CIPROFLOXACIN,81.81818389892578
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,COLISTIN BY MIC,90.90909004211426
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,ERTAPENEM,100.0
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,IMIPENEM,81.81818389892578
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,LEVOFLOXACIN,72.7272720336914
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,MEROPENEM,100.0
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,PIPERACILLIN / TAZOBACTAM,90.90909576416016
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Klebsiella aerogenes,11.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,AMIKACIN,96.0264892578125
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,AMOXICILLIN/ CLAVULANIC ACID,64.56954193115234
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CEFOPERAZONE / SULBACTAM,82.78145599365234
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CEFTAZIDIME,64.9006576538086
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CEFTRIAXONE,59.6026496887207
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CIPROFLOXACIN,49.00662231445312
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,COLISTIN BY MIC,98.01324462890624
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,ERTAPENEM,89.40397644042969
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,IMIPENEM,91.39073181152344
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,LEVOFLOXACIN,48.3443717956543
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,MEROPENEM,90.72847747802734
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,PIPERACILLIN / TAZOBACTAM,72.51655578613281
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Klebsiella pneumoniae (all isolates),302.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,AMIKACIN,89.47368621826172
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CEFOPERAZONE / SULBACTAM,84.21052551269531
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CEFTAZIDIME,73.68421173095703
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CEFTRIAXONE,78.94737243652344
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CIPROFLOXACIN,57.89473724365234
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,ERTAPENEM,94.73684692382812
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,IMIPENEM,10.52631568908691
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,LEVOFLOXACIN,57.89473724365234
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,MEROPENEM,94.73684692382812
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,PIPERACILLIN / TAZOBACTAM,100.0
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Morganella morganii,19.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,AMIKACIN,100.0
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,AMOXICILLIN/ CLAVULANIC ACID,30.15873146057129
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CEFOPERAZONE / SULBACTAM,93.5483856201172
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CEFTAZIDIME,84.12698364257812
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CEFTRIAXONE,77.77777862548828
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CIPROFLOXACIN,65.0793685913086
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,ERTAPENEM,82.53968048095703
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,IMIPENEM,3.22580623626709
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,LEVOFLOXACIN,65.0793685913086
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,MEROPENEM,90.32257843017578
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,PIPERACILLIN / TAZOBACTAM,95.23809814453124
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Proteus mirabilis,63.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,AMIKACIN,100.0
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CEFTAZIDIME,78.4313735961914
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CEFTRIAXONE,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CIPROFLOXACIN,87.5
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,COLISTIN BY MIC,92.15686225891112
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,IMIPENEM,87.33333587646484
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,LEVOFLOXACIN,79.73856353759766
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,MEROPENEM,83.44371032714844
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,PIPERACILLIN / TAZOBACTAM,68.0
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Pseudomonas aeruginosa (all isolates),153.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,AMIKACIN,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,AMPICILLIN,71.42857360839844
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CEFOPERAZONE / SULBACTAM,100.0
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CEFTAZIDIME,100.0
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CEFTRIAXONE,100.0
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CHLORAMPHENICOL,87.5
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CIPROFLOXACIN,43.33333206176758
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,CO-TRIMOXAZOLE,94.59458923339844
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,IMIPENEM,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,LEVOFLOXACIN,66.7
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,MEROPENEM,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Salmonella spp.,60.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,AMIKACIN,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CEFOPERAZONE / SULBACTAM,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CEFTAZIDIME,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CEFTRIAXONE,90.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CIPROFLOXACIN,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,ERTAPENEM,90.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,IMIPENEM,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,MEROPENEM,100.0
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Serratia marcescens,10.0,VANCOMYCIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,AMIKACIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,AMPICILLIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CEFOTAXIME,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CEFTAZIDIME,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CEFTRIAXONE,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CLINDAMYCIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,ERTAPENEM,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,GENTAMICIN,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,IMIPENEM,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,LEVOFLOXACIN,92.30769348144533
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,MEROPENEM,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,TETRACYCLINE,
+All Specimen,Overall,Gram negative,Stenotrophomonas maltophilia,26.0,VANCOMYCIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,AMIKACIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CHLORAMPHENICOL,100.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CLINDAMYCIN,33.33333587646484
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,CO-TRIMOXAZOLE,33.33333587646484
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,ERYTHROMYCIN,0.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,IMIPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,MEROPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,PENICILLIN BY MIC,0.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,TETRACYCLINE,33.33333587646484
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,3.0,VANCOMYCIN,100.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,AMIKACIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CEFOTAXIME,75.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CEFTRIAXONE,87.5
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CLINDAMYCIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,ERYTHROMYCIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,IMIPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,MEROPENEM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,PENICILLIN BY MIC,75.0
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,TETRACYCLINE,
+All Specimen,Overall,Gram positive,(Non-sterile sites) c,16.0,VANCOMYCIN,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,AMIKACIN,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CHLORAMPHENICOL,84.61538696289062
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CLINDAMYCIN,30.76923179626465
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,CO-TRIMOXAZOLE,38.46154022216797
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,ERYTHROMYCIN,23.07692337036133
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,IMIPENEM,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,LEVOFLOXACIN,92.30769348144533
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,MEROPENEM,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,PENICILLIN BY MIC,76.92308044433594
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,TETRACYCLINE,7.692307949066162
+All Specimen,Overall,Gram positive,(Sterile sites) b,13.0,VANCOMYCIN,91.66667175292967
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,AMPICILLIN,99.23076629638672
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CIPROFLOXACIN,39.8
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CLINDAMYCIN,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,ERYTHROMYCIN,2.307692289352417
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,TETRACYCLINE,8.7
+All Specimen,Overall,Gram positive,Enterococcus faecalis,130.0,VANCOMYCIN,98.46154022216795
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,AMPICILLIN,0.0
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CIPROFLOXACIN,0.0
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CLINDAMYCIN,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,ERYTHROMYCIN,0.0
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,PENICILLIN BY MIC,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,TETRACYCLINE,11.1
+All Specimen,Overall,Gram positive,Enterococcus faecium,19.0,VANCOMYCIN,83.33332824707031
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CIPROFLOXACIN,80.76922607421875
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CLINDAMYCIN,11.53846168518066
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,CO-TRIMOXAZOLE,92.30769348144533
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,ERYTHROMYCIN,7.692307949066162
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,GENTAMICIN,96.15384674072266
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,PENICILLIN BY MIC,0.0
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,TETRACYCLINE,19.23077011108398
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),26.0,VANCOMYCIN,96.2
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CIPROFLOXACIN,98.1481475830078
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CLINDAMYCIN,93.51851654052734
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,CO-TRIMOXAZOLE,96.29629516601562
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,ERYTHROMYCIN,89.81481170654297
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,GENTAMICIN,96.29629516601562
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,PENICILLIN BY MIC,17.59259223937988
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,TETRACYCLINE,46.29629516601562
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),108.0,VANCOMYCIN,99.1
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CIPROFLOXACIN,94.73684692382812
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CLINDAMYCIN,77.44361114501953
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,CO-TRIMOXAZOLE,95.4887237548828
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,ERYTHROMYCIN,73.68421173095703
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,GENTAMICIN,96.2406005859375
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,PENICILLIN BY MIC,14.28571510314941
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,TETRACYCLINE,40.60150527954102
+All Specimen,Overall,Gram positive,Staphylococcus aureus (all isolates),133.0,VANCOMYCIN,98.5
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,AMIKACIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CIPROFLOXACIN,45.09803771972656
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CLINDAMYCIN,33.33333587646484
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,CO-TRIMOXAZOLE,70.5882339477539
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,ERYTHROMYCIN,21.56862831115723
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,GENTAMICIN,58.82353210449219
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,IMIPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,MEROPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,PENICILLIN BY MIC,9.803921699523926
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,TETRACYCLINE,54.90196228027344
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative",52.0,VANCOMYCIN,96.1
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,AMIKACIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CHLORAMPHENICOL,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CIPROFLOXACIN,40.47619247436523
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CLINDAMYCIN,30.9523811340332
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,CO-TRIMOXAZOLE,69.04761505126953
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,ERYTHROMYCIN,16.66666793823242
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,GENTAMICIN,57.14286041259766
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,IMIPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,LEVOFLOXACIN,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,MEROPENEM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,PENICILLIN BY MIC,11.90476226806641
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,TETRACYCLINE,57.14286041259766
+All Specimen,Overall,Gram positive,"Staphylococcus,coagulase negative (blood)",43.0,VANCOMYCIN,95.2
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,AMPICILLIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CEFOTAXIME,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CEFTRIAXONE,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CHLORAMPHENICOL,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CLINDAMYCIN,88.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,ERYTHROMYCIN,83.33332824707031
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,PENICILLIN BY MIC,100.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,TETRACYCLINE,24.0
+All Specimen,Overall,Gram positive,Streptococcus agalactiae,25.0,VANCOMYCIN,96.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CHLORAMPHENICOL,75.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CLINDAMYCIN,25.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,CO-TRIMOXAZOLE,50.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,ERYTHROMYCIN,0.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,LEVOFLOXACIN,75.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,PENICILLIN BY MIC,0.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,TETRACYCLINE,0.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),4.0,VANCOMYCIN,66.66667175292969
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CHLORAMPHENICOL,91.66667175292967
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CLINDAMYCIN,33.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,CO-TRIMOXAZOLE,33.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,ERYTHROMYCIN,25.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,PENICILLIN BY MIC,16.66666793823242
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,TETRACYCLINE,16.66666793823242
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),12.0,VANCOMYCIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,AMPICILLIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CEFOTAXIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CEFTRIAXONE,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CHLORAMPHENICOL,87.5
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CLINDAMYCIN,31.25
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,CO-TRIMOXAZOLE,37.5
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,ERYTHROMYCIN,18.75
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,LEVOFLOXACIN,93.75
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,PENICILLIN BY MIC,12.5
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,TETRACYCLINE,12.5
+All Specimen,Overall,Gram positive,Streptococcus pneumoniae (all isolates),16.0,VANCOMYCIN,93.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,AMPICILLIN,96.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CEFOTAXIME,93.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CEFTRIAXONE,93.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CHLORAMPHENICOL,96.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CLINDAMYCIN,80.0
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,ERYTHROMYCIN,73.33333587646484
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,PENICILLIN BY MIC,96.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,TETRACYCLINE,3.333333492279053
+All Specimen,Overall,Gram positive,Streptococcus pyogenes,30.0,VANCOMYCIN,96.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,AMPICILLIN,91.7
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CEFOTAXIME,41.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CEFTRIAXONE,41.66666412353516
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CHLORAMPHENICOL,81.81818389892578
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CLINDAMYCIN,0.0
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,ERYTHROMYCIN,0.0
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,LEVOFLOXACIN,100.0
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,PENICILLIN BY MIC,18.18181800842285
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,TETRACYCLINE,
+All Specimen,Overall,Gram positive,Streptococcus suis,12.0,VANCOMYCIN,91.66667175292967
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,AMIKACIN,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,AMPICILLIN,100.0
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CEFOTAXIME,100.0
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CEFTRIAXONE,100.0
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CHLORAMPHENICOL,81.81818389892578
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CLINDAMYCIN,72.7272720336914
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,ERYTHROMYCIN,63.6363639831543
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,IMIPENEM,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,LEVOFLOXACIN,90.90909576416016
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,MEROPENEM,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,PENICILLIN BY MIC,100.0
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,TETRACYCLINE,36.3636360168457
+All Specimen,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",11.0,VANCOMYCIN,90.90909576416016
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,AMIKACIN,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,AMOXICILLIN/ CLAVULANIC ACID,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,AMPICILLIN,52.2
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CEFOPERAZONE / SULBACTAM,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CEFOTAXIME,84.78260803222656
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CEFTAZIDIME,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CEFTRIAXONE,84.78260803222656
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CHLORAMPHENICOL,89.13043975830078
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CIPROFLOXACIN,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CLINDAMYCIN,67.39130401611328
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,CO-TRIMOXAZOLE,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,COLISTIN BY MIC,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,ERTAPENEM,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,ERYTHROMYCIN,35.0
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,GENTAMICIN,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,IMIPENEM,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,LEVOFLOXACIN,91.30435180664062
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,MEROPENEM,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,PENICILLIN BY MIC,34.78260803222656
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,PIPERACILLIN / TAZOBACTAM,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,TETRACYCLINE,
+All Specimen,Overall,Gram positive,Streptococcuss spp. Viridans Group,46.0,VANCOMYCIN,97.82608795166016
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,AMIKACIN,100.0
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,AMOXICILLIN/CLAVULANIC ACID,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,AMPICILLIN,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CEFEPIME,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CEFTAZIDIME,34.615386962890625
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CEFTRIAXONE,17.307693481445312
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CIPROFLOXACIN,36.53845977783203
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,COLISTIN BY MIC,100.0
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,ERTAPENEM,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,GENTAMICIN,
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,IMIPENEM,34.615386962890625
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,LEVOFLOXACIN,42.30769348144531
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,MEROPENEM,34.615386962890625
+Blood,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,52.0,PIPERACILLIN / TAZOBACTAM,25.53191566467285
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,AMIKACIN,85.71428680419922
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CEFEPIME,
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CEFTAZIDIME,100.0
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CEFTRIAXONE,71.42857360839844
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CIPROFLOXACIN,71.42857360839844
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,GENTAMICIN,
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,IMIPENEM,100.0
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,LEVOFLOXACIN,100.0
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,MEROPENEM,100.0
+Blood,Overall,Gram negative,Acinetobacter spp.,7.0,PIPERACILLIN / TAZOBACTAM,33.333335876464844
+Blood,Overall,Gram negative,Burkholderia pseudomallei,7.0,AMOXICILLIN/CLAVULANIC ACID,100.0
+Blood,Overall,Gram negative,Burkholderia pseudomallei,7.0,CEFTAZIDIME,85.7
+Blood,Overall,Gram negative,Burkholderia pseudomallei,7.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Burkholderia pseudomallei,7.0,IMIPENEM,100.0
+Blood,Overall,Gram negative,Burkholderia pseudomallei,7.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,AMIKACIN,69.23077392578125
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,AMOXICILLIN/CLAVULANIC ACID,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,AMPICILLIN,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFEPIME,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFOPERAZONE / SULBACTAM,76.92308044433594
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFOXITIN,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFTAZIDIME,46.153846740722656
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFTRIAXONE,46.153846740722656
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CIPROFLOXACIN,61.5384635925293
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,COLISTIN BY MIC,76.92308187484741
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,ERTAPENEM,84.61538696289062
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,GENTAMICIN,
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,IMIPENEM,92.30769348144533
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,LEVOFLOXACIN,53.84615707397461
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,MEROPENEM,92.30769348144533
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,PIPERACILLIN / TAZOBACTAM,53.84615707397461
+Blood,Overall,Gram negative,Enterobacter cloacae,13.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,AMIKACIN,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,AMOXICILLIN/CLAVULANIC ACID,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,AMPICILLIN,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFEPIME,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFOPERAZONE / SULBACTAM,100.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFOXITIN,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFTAZIDIME,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFTRIAXONE,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CIPROFLOXACIN,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,ERTAPENEM,100.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,GENTAMICIN,
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,IMIPENEM,100.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,LEVOFLOXACIN,100.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,MEROPENEM,100.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,PIPERACILLIN / TAZOBACTAM,50.0
+Blood,Overall,Gram negative,Enterobacter spp.,2.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Escherichia coli,260.0,AMIKACIN,91.53845977783205
+Blood,Overall,Gram negative,Escherichia coli,260.0,AMOXICILLIN/CLAVULANIC ACID,75.38461303710938
+Blood,Overall,Gram negative,Escherichia coli,260.0,AMPICILLIN,
+Blood,Overall,Gram negative,Escherichia coli,260.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFEPIME,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFOPERAZONE / SULBACTAM,95.76923370361328
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFOXITIN,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFTAZIDIME,84.23076629638672
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFTRIAXONE,70.38461303710938
+Blood,Overall,Gram negative,Escherichia coli,260.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Escherichia coli,260.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Escherichia coli,260.0,CIPROFLOXACIN,42.69230651855469
+Blood,Overall,Gram negative,Escherichia coli,260.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Escherichia coli,260.0,COLISTIN BY MIC,98.4615349471569
+Blood,Overall,Gram negative,Escherichia coli,260.0,ERTAPENEM,97.30769348144533
+Blood,Overall,Gram negative,Escherichia coli,260.0,GENTAMICIN,
+Blood,Overall,Gram negative,Escherichia coli,260.0,IMIPENEM,97.69230651855467
+Blood,Overall,Gram negative,Escherichia coli,260.0,LEVOFLOXACIN,35.38461685180664
+Blood,Overall,Gram negative,Escherichia coli,260.0,MEROPENEM,97.30769348144533
+Blood,Overall,Gram negative,Escherichia coli,260.0,PIPERACILLIN / TAZOBACTAM,89.96139526367188
+Blood,Overall,Gram negative,Escherichia coli,260.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,AMIKACIN,97.7272720336914
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,AMOXICILLIN/CLAVULANIC ACID,81.81818389892578
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,AMPICILLIN,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFEPIME,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFOPERAZONE / SULBACTAM,94.31818389892578
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFOXITIN,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFTAZIDIME,79.54545593261719
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFTRIAXONE,75.0
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CIPROFLOXACIN,61.3636360168457
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,COLISTIN BY MIC,98.86364364624023
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,ERTAPENEM,96.59090423583984
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,GENTAMICIN,
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,IMIPENEM,96.59090423583984
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,LEVOFLOXACIN,61.3636360168457
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,MEROPENEM,97.7272720336914
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,PIPERACILLIN / TAZOBACTAM,86.36363983154297
+Blood,Overall,Gram negative,Klebsiella pneumoniae,88.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,AMIKACIN,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,AMOXICILLIN/CLAVULANIC ACID,33.333335876464844
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,AMPICILLIN,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFEPIME,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFOPERAZONE / SULBACTAM,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFOXITIN,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFTAZIDIME,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFTRIAXONE,83.33332824707031
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CIPROFLOXACIN,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,COLISTIN BY MIC,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,ERTAPENEM,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,GENTAMICIN,
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,IMIPENEM,83.33332824707031
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,LEVOFLOXACIN,83.33332824707031
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,MEROPENEM,100.0
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,PIPERACILLIN / TAZOBACTAM,83.33332824707031
+Blood,Overall,Gram negative,Klebsiella spp.,6.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Morganella morganii,5.0,AMIKACIN,100.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,AMOXICILLIN/CLAVULANIC ACID,
+Blood,Overall,Gram negative,Morganella morganii,5.0,AMPICILLIN,
+Blood,Overall,Gram negative,Morganella morganii,5.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFEPIME,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFOPERAZONE / SULBACTAM,100.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFOXITIN,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFTAZIDIME,80.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFTRIAXONE,80.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Morganella morganii,5.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Morganella morganii,5.0,CIPROFLOXACIN,60.00000381469727
+Blood,Overall,Gram negative,Morganella morganii,5.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Morganella morganii,5.0,COLISTIN BY MIC,
+Blood,Overall,Gram negative,Morganella morganii,5.0,ERTAPENEM,100.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,GENTAMICIN,
+Blood,Overall,Gram negative,Morganella morganii,5.0,IMIPENEM,20.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,LEVOFLOXACIN,60.00000381469727
+Blood,Overall,Gram negative,Morganella morganii,5.0,MEROPENEM,100.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,PIPERACILLIN / TAZOBACTAM,100.0
+Blood,Overall,Gram negative,Morganella morganii,5.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,AMIKACIN,100.0
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,AMOXICILLIN/CLAVULANIC ACID,34.78260803222656
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,AMPICILLIN,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFAZOLIN,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFEPIME,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFOPERAZONE / SULBACTAM,86.9565200805664
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFOXITIN,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFTAZIDIME,78.26087188720703
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFTRIAXONE,78.26087188720703
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CIPROFLOXACIN,73.91304016113281
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,COLISTIN BY MIC,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,ERTAPENEM,73.91304016113281
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,GENTAMICIN,
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,IMIPENEM,4.34782600402832
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,LEVOFLOXACIN,73.91304016113281
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,MEROPENEM,91.30435180664062
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,PIPERACILLIN / TAZOBACTAM,100.0
+Blood,Overall,Gram negative,Proteus mirabilis,23.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,AMOXICILLIN/CLAVULANIC ACID,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,AMPICILLIN,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,AMPICILLIN / SULBACTAM,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CEFEPIME,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CEFTAZIDIME,93.33333587646484
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CEFTRIAXONE,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CIPROFLOXACIN,100.0
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,COLISTIN BY MIC,100.0
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,ERTAPENEM,
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,IMIPENEM,100.0
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,LEVOFLOXACIN,93.33333587646484
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,MEROPENEM,100.0
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,PIPERACILLIN / TAZOBACTAM,86.66666412353516
+Blood,Overall,Gram negative,Pseudomonas aeruginosa,15.0,TETRACYCLINE,
+Blood,Overall,Gram negative,Salmonella spp.,16.0,AMPICILLIN,
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CEFOPERAZONE / SULBACTAM,100.0
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CEFOTAXIME,
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CEFTAZIDIME,100.0
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CEFTRIAXONE,100.0
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CHLORAMPHENICOL,
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CIPROFLOXACIN,0.0
+Blood,Overall,Gram negative,Salmonella spp.,16.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram negative,Salmonella spp.,16.0,LEVOFLOXACIN,62.5
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,AMIKACIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,AMPICILLIN,91.66667175292967
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFAZOLIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFEPIME,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFOPERAZONE / SULBACTAM,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFOTAXIME,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFTAZIDIME,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFTRIAXONE,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CLINDAMYCIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,ERYTHROMYCIN,0.0
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,GENTAMICIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,GENTAMICIN 120 ΜG,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,PENICILLIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,PENICILLIN BY MIC,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Enterococcus faecalis,12.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,AMIKACIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,AMPICILLIN,0.0
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFAZOLIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFEPIME,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFOPERAZONE / SULBACTAM,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFOTAXIME,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFTAZIDIME,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFTRIAXONE,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CLINDAMYCIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,CO-TRIMOXAZOLE,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,ERYTHROMYCIN,0.0
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,GENTAMICIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,GENTAMICIN 120 ΜG,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,PENICILLIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,PENICILLIN BY MIC,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Enterococcus faecium,8.0,VANCOMYCIN,85.71428680419922
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,AMPICILLIN,100.0
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,ERYTHROMYCIN,33.333335876464844
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,GENTAMICIN 120 ΜG,
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,PENICILLIN,
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,PENICILLIN BY MIC,
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Enterococcus spp.,6.0,VANCOMYCIN,83.33332824707031
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,CIPROFLOXACIN,57.142860412597656
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,CLINDAMYCIN,28.571430206298828
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,CO-TRIMOXAZOLE,100.0
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,ERYTHROMYCIN,28.571430206298828
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,GENTAMICIN,100.0
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,OXACILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,PENICILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,PENICILLIN BY MIC,0.0
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,TETRACYCLINE,57.142860412597656
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),7.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,CIPROFLOXACIN,95.91836547851562
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,CLINDAMYCIN,91.83673095703124
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,CO-TRIMOXAZOLE,93.87755584716795
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,ERYTHROMYCIN,89.79591369628906
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,GENTAMICIN,95.91836547851562
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,OXACILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,PENICILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,PENICILLIN BY MIC,28.571430206298828
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,TETRACYCLINE,55.1020393371582
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),49.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,CIPROFLOXACIN,90.90909576416016
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,CLINDAMYCIN,83.63636016845703
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,CO-TRIMOXAZOLE,94.5454559326172
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,ERYTHROMYCIN,81.81818389892578
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,GENTAMICIN,96.36363220214844
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,OXACILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,PENICILLIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,PENICILLIN BY MIC,25.45454406738281
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,TEICOPLANIN,
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,TETRACYCLINE,54.54545593261719
+Blood,Overall,Gram positive,Staphylococcus aureus (all isolates),55.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,CIPROFLOXACIN,100.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,CLINDAMYCIN,87.5
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,CO-TRIMOXAZOLE,100.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,ERYTHROMYCIN,62.5
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,GENTAMICIN,100.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,OXACILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,PENICILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,PENICILLIN BY MIC,62.5
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,TEICOPLANIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,TETRACYCLINE,50.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",9.0,VANCOMYCIN,87.5
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,CIPROFLOXACIN,26.47058868408203
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,CLINDAMYCIN,17.647058486938477
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,CO-TRIMOXAZOLE,61.76470565795898
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,ERYTHROMYCIN,5.882352828979492
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,GENTAMICIN,47.05882263183594
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,OXACILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,PENICILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,PENICILLIN BY MIC,0.0
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,TEICOPLANIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,TETRACYCLINE,58.82353210449219
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",34.0,VANCOMYCIN,97.1
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,CHLORAMPHENICOL,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,CIPROFLOXACIN,40.476192474365234
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,CLINDAMYCIN,30.952381134033203
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,CO-TRIMOXAZOLE,69.04761505126953
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,ERYTHROMYCIN,16.666667938232422
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,GENTAMICIN,57.142860412597656
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,LEVOFLOXACIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,OXACILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,PENICILLIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,PENICILLIN BY MIC,11.904762268066406
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,TEICOPLANIN,
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,TETRACYCLINE,57.142860412597656
+Blood,Overall,Gram positive,"Staphylococcus,coagulase negative",43.0,VANCOMYCIN,95.2
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,AMPICILLIN,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,CEFEPIME,
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,CEFOTAXIME,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,CEFTRIAXONE,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,CHLORAMPHENICOL,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,CLINDAMYCIN,92.85713958740234
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,ERYTHROMYCIN,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,LEVOFLOXACIN,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,PENICILLIN,
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,PENICILLIN BY MIC,100.0
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,TETRACYCLINE,28.571430206298828
+Blood,Overall,Gram positive,Streptococcus agalactiae,14.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,CEFUROXIME SODIUM (PARENTERAL),
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,CHLORAMPHENICOL,84.61538696289062
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,CLINDAMYCIN,30.76923179626465
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,CO-TRIMOXAZOLE,38.46154022216797
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,ERYTHROMYCIN,23.076923370361328
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,LEVOFLOXACIN,92.30769348144533
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,PENICILLIN,
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,PENICILLIN BY MIC,15.384615898132324
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,TETRACYCLINE,7.692307949066162
+Blood,Overall,Gram positive,Streptococcus pneumoniae,13.0,VANCOMYCIN,91.66667175292967
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,AMPICILLIN,100.0
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,CEFEPIME,
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,CEFOTAXIME,95.23809814453124
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,CEFTRIAXONE,95.23809814453124
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,CHLORAMPHENICOL,95.23809814453124
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,CLINDAMYCIN,90.47618865966795
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,ERYTHROMYCIN,80.95238494873047
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,LEVOFLOXACIN,100.0
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,PENICILLIN,
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,PENICILLIN BY MIC,100.0
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,TETRACYCLINE,4.761904716491699
+Blood,Overall,Gram positive,Streptococcus pyogenes,21.0,VANCOMYCIN,100.0
+Blood,Overall,Gram positive,Streptococcus suis,12.0,AMPICILLIN,91.7
+Blood,Overall,Gram positive,Streptococcus suis,12.0,CEFEPIME,
+Blood,Overall,Gram positive,Streptococcus suis,12.0,CEFOTAXIME,41.66666412353516
+Blood,Overall,Gram positive,Streptococcus suis,12.0,CEFTRIAXONE,41.66666412353516
+Blood,Overall,Gram positive,Streptococcus suis,12.0,CHLORAMPHENICOL,81.81818389892578
+Blood,Overall,Gram positive,Streptococcus suis,12.0,CLINDAMYCIN,0.0
+Blood,Overall,Gram positive,Streptococcus suis,12.0,ERYTHROMYCIN,0.0
+Blood,Overall,Gram positive,Streptococcus suis,12.0,LEVOFLOXACIN,100.0
+Blood,Overall,Gram positive,Streptococcus suis,12.0,PENICILLIN BY MIC,18.18181800842285
+Blood,Overall,Gram positive,Streptococcus suis,12.0,VANCOMYCIN,91.66667175292967
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,AMPICILLIN,100.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,CEFEPIME,
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,CEFOTAXIME,100.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,CEFTRIAXONE,100.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,CHLORAMPHENICOL,75.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,CLINDAMYCIN,62.5
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,ERYTHROMYCIN,62.5
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,LEVOFLOXACIN,87.5
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,PENICILLIN,
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,PENICILLIN BY MIC,100.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,TETRACYCLINE,25.0
+Blood,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",8.0,VANCOMYCIN,87.5
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,AMPICILLIN,88.2
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,CEFEPIME,
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,CEFOTAXIME,94.11764526367188
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,CEFTRIAXONE,100.0
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,CHLORAMPHENICOL,82.35294342041016
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,CLINDAMYCIN,52.94117736816406
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,ERYTHROMYCIN,50.0
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,LEVOFLOXACIN,88.23529815673828
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,PENICILLIN BY MIC,58.82353210449219
+Blood,Overall,Gram positive,Streptococcuss spp. Viridans Group,17.0,VANCOMYCIN,94.11764526367188
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,AMOXICILLIN/CLAVULANIC ACID,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,AMPICILLIN,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CEFEPIME,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CEFTAZIDIME,12.5
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CEFTRIAXONE,4.1666669845581055
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CIPROFLOXACIN,20.83333206176757
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,COLISTIN BY MIC,100.0
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,ERTAPENEM,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,GENTAMICIN,
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,IMIPENEM,16.666667938232422
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,LEVOFLOXACIN,20.83333206176757
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,MEROPENEM,16.666667938232422
+Pus,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,24.0,PIPERACILLIN / TAZOBACTAM,16.666667938232422
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CEFEPIME,
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CEFTAZIDIME,50.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CEFTRIAXONE,50.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CIPROFLOXACIN,100.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,GENTAMICIN,
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,IMIPENEM,50.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,MEROPENEM,50.0
+Pus,Overall,Gram negative,Acinetobacter spp.,2.0,PIPERACILLIN / TAZOBACTAM,50.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,AMOXICILLIN/CLAVULANIC ACID,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,AMPICILLIN,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFEPIME,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFOPERAZONE / SULBACTAM,90.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFOXITIN,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFTAZIDIME,90.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFTRIAXONE,85.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CIPROFLOXACIN,85.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,COLISTIN BY MIC,75.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,ERTAPENEM,85.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,GENTAMICIN,
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,IMIPENEM,90.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,LEVOFLOXACIN,85.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,MEROPENEM,95.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,PIPERACILLIN / TAZOBACTAM,85.0
+Pus,Overall,Gram negative,Enterobacter cloacae,20.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Escherichia coli,64.0,AMIKACIN,90.625
+Pus,Overall,Gram negative,Escherichia coli,64.0,AMOXICILLIN/CLAVULANIC ACID,65.625
+Pus,Overall,Gram negative,Escherichia coli,64.0,AMPICILLIN,
+Pus,Overall,Gram negative,Escherichia coli,64.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFEPIME,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFOPERAZONE / SULBACTAM,89.0625
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFOXITIN,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFTAZIDIME,70.3125
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFTRIAXONE,37.5
+Pus,Overall,Gram negative,Escherichia coli,64.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Escherichia coli,64.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Escherichia coli,64.0,CIPROFLOXACIN,25.0
+Pus,Overall,Gram negative,Escherichia coli,64.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Escherichia coli,64.0,COLISTIN BY MIC,92.1875
+Pus,Overall,Gram negative,Escherichia coli,64.0,ERTAPENEM,90.625
+Pus,Overall,Gram negative,Escherichia coli,64.0,GENTAMICIN,
+Pus,Overall,Gram negative,Escherichia coli,64.0,IMIPENEM,90.625
+Pus,Overall,Gram negative,Escherichia coli,64.0,LEVOFLOXACIN,20.3125
+Pus,Overall,Gram negative,Escherichia coli,64.0,MEROPENEM,90.625
+Pus,Overall,Gram negative,Escherichia coli,64.0,PIPERACILLIN / TAZOBACTAM,79.6875
+Pus,Overall,Gram negative,Escherichia coli,64.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,AMIKACIN,94.44444274902344
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,AMOXICILLIN/CLAVULANIC ACID,69.44444274902344
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,AMPICILLIN,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFEPIME,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFOPERAZONE / SULBACTAM,77.77777862548828
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFOXITIN,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFTAZIDIME,61.11111068725586
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFTRIAXONE,58.33333206176758
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CIPROFLOXACIN,41.66666412353516
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,COLISTIN BY MIC,100.0
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,ERTAPENEM,83.33332824707031
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,GENTAMICIN,
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,IMIPENEM,88.8888931274414
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,LEVOFLOXACIN,38.88888931274414
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,MEROPENEM,86.1111068725586
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,PIPERACILLIN / TAZOBACTAM,69.44444274902344
+Pus,Overall,Gram negative,Klebsiella pneumoniae,36.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,AMOXICILLIN/CLAVULANIC ACID,57.142860412597656
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,AMPICILLIN,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFEPIME,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFOPERAZONE / SULBACTAM,100.0
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFOXITIN,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFTAZIDIME,85.71428680419922
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFTRIAXONE,85.71428680419922
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CIPROFLOXACIN,85.71428680419922
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,COLISTIN BY MIC,85.71428871154785
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,ERTAPENEM,100.0
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,GENTAMICIN,
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,IMIPENEM,85.71428680419922
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,LEVOFLOXACIN,85.71428680419922
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,MEROPENEM,100.0
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,PIPERACILLIN / TAZOBACTAM,100.0
+Pus,Overall,Gram negative,Klebsiella spp.,7.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Morganella morganii,6.0,AMIKACIN,66.66667175292969
+Pus,Overall,Gram negative,Morganella morganii,6.0,AMOXICILLIN/CLAVULANIC ACID,
+Pus,Overall,Gram negative,Morganella morganii,6.0,AMPICILLIN,
+Pus,Overall,Gram negative,Morganella morganii,6.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFEPIME,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFOPERAZONE / SULBACTAM,83.33332824707031
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFOXITIN,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFTAZIDIME,83.33332824707031
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFTRIAXONE,83.33332824707031
+Pus,Overall,Gram negative,Morganella morganii,6.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Morganella morganii,6.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Morganella morganii,6.0,CIPROFLOXACIN,66.66667175292969
+Pus,Overall,Gram negative,Morganella morganii,6.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Morganella morganii,6.0,COLISTIN BY MIC,
+Pus,Overall,Gram negative,Morganella morganii,6.0,ERTAPENEM,100.0
+Pus,Overall,Gram negative,Morganella morganii,6.0,GENTAMICIN,
+Pus,Overall,Gram negative,Morganella morganii,6.0,IMIPENEM,0.0
+Pus,Overall,Gram negative,Morganella morganii,6.0,LEVOFLOXACIN,66.66667175292969
+Pus,Overall,Gram negative,Morganella morganii,6.0,MEROPENEM,100.0
+Pus,Overall,Gram negative,Morganella morganii,6.0,PIPERACILLIN / TAZOBACTAM,100.0
+Pus,Overall,Gram negative,Morganella morganii,6.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,AMOXICILLIN/CLAVULANIC ACID,45.45454788208008
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,AMPICILLIN,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFEPIME,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFOPERAZONE / SULBACTAM,100.0
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFOXITIN,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFTAZIDIME,86.36363983154297
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFTRIAXONE,81.81818389892578
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CIPROFLOXACIN,54.54545593261719
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,COLISTIN BY MIC,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,ERTAPENEM,86.36363983154297
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,GENTAMICIN,
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,IMIPENEM,4.545454502105713
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,LEVOFLOXACIN,54.54545593261719
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,MEROPENEM,85.71428680419922
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,PIPERACILLIN / TAZOBACTAM,86.36363983154297
+Pus,Overall,Gram negative,Proteus mirabilis,22.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,AMOXICILLIN/CLAVULANIC ACID,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,AMPICILLIN,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CEFEPIME,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CEFTAZIDIME,62.5
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CEFTRIAXONE,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CIPROFLOXACIN,83.33332824707031
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,COLISTIN BY MIC,87.5
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,ERTAPENEM,
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,IMIPENEM,75.0
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,LEVOFLOXACIN,70.83332824707031
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,MEROPENEM,75.0
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,PIPERACILLIN / TAZOBACTAM,52.17391204833984
+Pus,Overall,Gram negative,Pseudomonas aeruginosa,24.0,TETRACYCLINE,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,AMIKACIN,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,AMOXICILLIN/CLAVULANIC ACID,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,AMPICILLIN,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,AMPICILLIN / SULBACTAM,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFAZOLIN,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFEPIME,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFOPERAZONE / SULBACTAM,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFOTAXIME,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFOXITIN,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFTAZIDIME,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFTRIAXONE,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CHLORAMPHENICOL,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CIPROFLOXACIN,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,COLISTIN BY MIC,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,ERTAPENEM,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,GENTAMICIN,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,IMIPENEM,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,MEROPENEM,100.0
+Pus,Overall,Gram negative,Serratia marcescens,2.0,PIPERACILLIN / TAZOBACTAM,
+Pus,Overall,Gram negative,Serratia marcescens,2.0,TETRACYCLINE,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,AMIKACIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,AMPICILLIN,100.0
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFAZOLIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFEPIME,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFOPERAZONE / SULBACTAM,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFOTAXIME,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFTAZIDIME,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFTRIAXONE,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CLINDAMYCIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,ERYTHROMYCIN,0.0
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,GENTAMICIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,GENTAMICIN 120 ΜG,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,PENICILLIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,PENICILLIN BY MIC,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,TEICOPLANIN,
+Pus,Overall,Gram positive,Enterococcus faecalis,11.0,VANCOMYCIN,90.90909576416016
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,AMIKACIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,AMPICILLIN,0.0
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFAZOLIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFEPIME,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFOPERAZONE / SULBACTAM,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFOTAXIME,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFTAZIDIME,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFTRIAXONE,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CEFUROXIME SODIUM (PARENTERAL),
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CLINDAMYCIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,CO-TRIMOXAZOLE,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,ERYTHROMYCIN,0.0
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,GENTAMICIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,GENTAMICIN 120 ΜG,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,PENICILLIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,PENICILLIN BY MIC,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,TEICOPLANIN,
+Pus,Overall,Gram positive,Enterococcus faecium,1.0,VANCOMYCIN,100.0
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,AMPICILLIN,0.0
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,ERYTHROMYCIN,0.0
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,GENTAMICIN 120 ΜG,
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,PENICILLIN,
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,PENICILLIN BY MIC,
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,TEICOPLANIN,
+Pus,Overall,Gram positive,Enterococcus spp.,2.0,VANCOMYCIN,100.0
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,CHLORAMPHENICOL,
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,CIPROFLOXACIN,98.38710021972656
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,CLINDAMYCIN,72.58065032958984
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,CO-TRIMOXAZOLE,96.7741928100586
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,ERYTHROMYCIN,69.3548355102539
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,GENTAMICIN,98.38710021972656
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,LEVOFLOXACIN,
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,OXACILLIN,
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,PENICILLIN,
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,PENICILLIN BY MIC,11.290322303771973
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,TEICOPLANIN,
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,TETRACYCLINE,35.48387145996094
+Pus,Overall,Gram positive,Staphylococcus aureus (all isolates),62.0,VANCOMYCIN,98.4
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CHLORAMPHENICOL,
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CIPROFLOXACIN,66.66667175292969
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CLINDAMYCIN,33.333335876464844
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CO-TRIMOXAZOLE,100.0
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,ERYTHROMYCIN,33.333335876464844
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,GENTAMICIN,100.0
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,LEVOFLOXACIN,
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,OXACILLIN,
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,PENICILLIN,
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,PENICILLIN BY MIC,0.0
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,TEICOPLANIN,
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,TETRACYCLINE,0.0
+Pus,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,VANCOMYCIN,66.7
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,AMPICILLIN,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,CEFEPIME,
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,CEFOTAXIME,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,CEFTRIAXONE,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,CHLORAMPHENICOL,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,CLINDAMYCIN,71.42857360839844
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,ERYTHROMYCIN,33.333335876464844
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,PENICILLIN,
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,PENICILLIN BY MIC,100.0
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,TETRACYCLINE,28.571430206298828
+Pus,Overall,Gram positive,Streptococcus agalactiae,7.0,VANCOMYCIN,100.0
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,AMPICILLIN,87.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,CEFEPIME,
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,CEFOTAXIME,87.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,CEFTRIAXONE,87.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,CHLORAMPHENICOL,100.0
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,CLINDAMYCIN,62.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,ERYTHROMYCIN,62.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,PENICILLIN,
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,PENICILLIN BY MIC,87.5
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,TETRACYCLINE,0.0
+Pus,Overall,Gram positive,Streptococcus pyogenes,8.0,VANCOMYCIN,87.5
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,AMPICILLIN,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,CEFEPIME,
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,CEFOTAXIME,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,CEFTRIAXONE,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,CHLORAMPHENICOL,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,CLINDAMYCIN,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,ERYTHROMYCIN,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,PENICILLIN,
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,PENICILLIN BY MIC,100.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,TETRACYCLINE,0.0
+Pus,Overall,Gram positive,"Streptococcus,β-hemolytic not Group A,B,D",1.0,VANCOMYCIN,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,AMPICILLIN,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,CEFEPIME,
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,CEFOTAXIME,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,CEFTRIAXONE,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,CHLORAMPHENICOL,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,CLINDAMYCIN,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,ERYTHROMYCIN,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,LEVOFLOXACIN,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,PENICILLIN BY MIC,100.0
+Pus,Overall,Gram positive,Streptococcuss spp. Viridans Group,1.0,VANCOMYCIN,100.0
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CEFEPIME,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CEFTAZIDIME,11.594202995300291
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CEFTRIAXONE,1.4492753744125366
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CIPROFLOXACIN,15.45893669128418
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,COLISTIN BY MIC,99.5121898651123
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,ERTAPENEM,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,IMIPENEM,14.492753028869627
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,LEVOFLOXACIN,15.45893669128418
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,MEROPENEM,13.526569366455078
+Sputum,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,207.0,PIPERACILLIN / TAZOBACTAM,10.243902206420898
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CEFEPIME,
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CEFTAZIDIME,50.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CEFTRIAXONE,0.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CIPROFLOXACIN,100.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,IMIPENEM,100.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,LEVOFLOXACIN,100.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,MEROPENEM,100.0
+Sputum,Overall,Gram negative,Acinetobacter spp.,2.0,PIPERACILLIN / TAZOBACTAM,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,AMIKACIN,72.7272720336914
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFEPIME,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFOPERAZONE / SULBACTAM,54.54545593261719
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFTAZIDIME,27.2727279663086
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFTRIAXONE,18.18181800842285
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CIPROFLOXACIN,45.45454788208008
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,COLISTIN BY MIC,72.72727298736572
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,ERTAPENEM,81.81818389892578
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,IMIPENEM,72.7272720336914
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,LEVOFLOXACIN,45.45454788208008
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,MEROPENEM,90.90909576416016
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,PIPERACILLIN / TAZOBACTAM,36.3636360168457
+Sputum,Overall,Gram negative,Enterobacter cloacae,11.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,AMOXICILLIN / CLAVULANIC ACID,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFEPIME,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFOPERAZONE / SULBACTAM,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFTAZIDIME,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFTRIAXONE,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CIPROFLOXACIN,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,ERTAPENEM,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,IMIPENEM,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,LEVOFLOXACIN,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,MEROPENEM,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,PIPERACILLIN / TAZOBACTAM,100.0
+Sputum,Overall,Gram negative,Enterobacter spp.,1.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,AMIKACIN,84.8484878540039
+Sputum,Overall,Gram negative,Escherichia coli,33.0,AMOXICILLIN / CLAVULANIC ACID,63.6363639831543
+Sputum,Overall,Gram negative,Escherichia coli,33.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFEPIME,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFOPERAZONE / SULBACTAM,84.8484878540039
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFTAZIDIME,60.60606384277344
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFTRIAXONE,30.30303192138672
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CIPROFLOXACIN,24.24242401123047
+Sputum,Overall,Gram negative,Escherichia coli,33.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,COLISTIN BY MIC,96.96970176696776
+Sputum,Overall,Gram negative,Escherichia coli,33.0,ERTAPENEM,93.93939208984376
+Sputum,Overall,Gram negative,Escherichia coli,33.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Escherichia coli,33.0,IMIPENEM,93.93939208984376
+Sputum,Overall,Gram negative,Escherichia coli,33.0,LEVOFLOXACIN,21.212121963500977
+Sputum,Overall,Gram negative,Escherichia coli,33.0,MEROPENEM,96.96969604492188
+Sputum,Overall,Gram negative,Escherichia coli,33.0,PIPERACILLIN / TAZOBACTAM,81.81818389892578
+Sputum,Overall,Gram negative,Escherichia coli,33.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFEPIME,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFOPERAZONE / SULBACTAM,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFTAZIDIME,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFTRIAXONE,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CIPROFLOXACIN,50.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,COLISTIN BY MIC,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,ERTAPENEM,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,IMIPENEM,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,LEVOFLOXACIN,50.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,MEROPENEM,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,PIPERACILLIN / TAZOBACTAM,100.0
+Sputum,Overall,Gram negative,Klebsiella aerogenes,2.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,AMIKACIN,94.5054931640625
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,AMOXICILLIN / CLAVULANIC ACID,65.93406677246094
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFEPIME,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFOPERAZONE / SULBACTAM,76.92308044433594
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFTAZIDIME,60.4395637512207
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFTRIAXONE,52.747257232666016
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CIPROFLOXACIN,56.04396057128906
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,COLISTIN BY MIC,97.80220413208008
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,ERTAPENEM,89.010986328125
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,IMIPENEM,91.20879364013672
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,LEVOFLOXACIN,54.9450569152832
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,MEROPENEM,89.010986328125
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,PIPERACILLIN / TAZOBACTAM,71.42857360839844
+Sputum,Overall,Gram negative,Klebsiella pneumoniae,91.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,AMIKACIN,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,AMOXICILLIN / CLAVULANIC ACID,0.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFEPIME,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFOPERAZONE / SULBACTAM,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFTAZIDIME,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFTRIAXONE,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CIPROFLOXACIN,50.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,ERTAPENEM,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,IMIPENEM,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,LEVOFLOXACIN,50.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,MEROPENEM,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,PIPERACILLIN / TAZOBACTAM,75.0
+Sputum,Overall,Gram negative,Klebsiella spp.,4.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,AMOXICILLIN / CLAVULANIC ACID,0.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFEPIME,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFOPERAZONE / SULBACTAM,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFTAZIDIME,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFTRIAXONE,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CIPROFLOXACIN,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,COLISTIN BY MIC,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,ERTAPENEM,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,IMIPENEM,0.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,LEVOFLOXACIN,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,MEROPENEM,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,PIPERACILLIN / TAZOBACTAM,100.0
+Sputum,Overall,Gram negative,Proteus mirabilis,1.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CEFEPIME,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CEFTAZIDIME,77.89473724365234
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CEFTRIAXONE,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CIPROFLOXACIN,85.10638427734375
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,COLISTIN BY MIC,92.63157653808594
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,ERTAPENEM,
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,IMIPENEM,86.0215072631836
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,LEVOFLOXACIN,80.0
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,MEROPENEM,79.56989288330078
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,PIPERACILLIN / TAZOBACTAM,66.66667175292969
+Sputum,Overall,Gram negative,Pseudomonas aeruginosa,95.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,AMIKACIN,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFAZOLIN,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFEPIME,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFOPERAZONE / SULBACTAM,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFOXITIN,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFTAZIDIME,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFTRIAXONE,75.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CIPROFLOXACIN,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,COLISTIN BY MIC,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,ERTAPENEM,75.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,IMIPENEM,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,LEVOFLOXACIN,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,MEROPENEM,100.0
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,PIPERACILLIN / TAZOBACTAM,
+Sputum,Overall,Gram negative,Serratia marcescens,4.0,TETRACYCLINE,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,AMIKACIN,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,AMPICILLIN,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,AMPICILLIN / SULBACTAM,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,CEFOTAXIME,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,CEFTAZIDIME,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,CEFTRIAXONE,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,CO-TRIMOXAZOLE,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,ERTAPENEM,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,GENTAMICIN,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,IMIPENEM,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,LEVOFLOXACIN,83.33332824707031
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,MEROPENEM,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,PIPERACILLIN / TAZOBACTAM,
+Sputum,Overall,Gram negative,Stenotrophomonas maltophilia,12.0,TETRACYCLINE,
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,CIPROFLOXACIN,66.66667175292969
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,CLINDAMYCIN,33.333335876464844
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,CO-TRIMOXAZOLE,66.66667175292969
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,ERYTHROMYCIN,0.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,GENTAMICIN,66.66667175292969
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,LEVOFLOXACIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,OXACILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,PENICILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,PENICILLIN BY MIC,0.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,TETRACYCLINE,33.333335876464844
+Sputum,Overall,Gram positive,Staphylococcus aureus,3.0,VANCOMYCIN,66.7
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,CIPROFLOXACIN,100.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,CLINDAMYCIN,100.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,CO-TRIMOXAZOLE,100.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,ERYTHROMYCIN,88.8888931274414
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,GENTAMICIN,88.8888931274414
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,LEVOFLOXACIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,OXACILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,PENICILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,PENICILLIN BY MIC,0.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,TETRACYCLINE,22.22222328186035
+Sputum,Overall,Gram positive,Staphylococcus aureus,9.0,VANCOMYCIN,100.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,CHLORAMPHENICOL,
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,CIPROFLOXACIN,91.66667175292967
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,CLINDAMYCIN,83.33332824707031
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,CO-TRIMOXAZOLE,91.66667175292967
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,ERYTHROMYCIN,66.66667175292969
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,GENTAMICIN,83.33332824707031
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,LEVOFLOXACIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,OXACILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,PENICILLIN,
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,PENICILLIN BY MIC,0.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,TETRACYCLINE,25.0
+Sputum,Overall,Gram positive,Staphylococcus aureus,12.0,VANCOMYCIN,91.7
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,AMOXICILLIN / CLAVULANIC ACID,
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,CEFUROXIME SODIUM (ORAL),
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,CHLORAMPHENICOL,100.0
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,CLINDAMYCIN,33.333335876464844
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,CO-TRIMOXAZOLE,33.333335876464844
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,ERYTHROMYCIN,0.0
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,LEVOFLOXACIN,100.0
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,PENICILLIN,
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,PENICILLIN BY MIC,0.0
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,TETRACYCLINE,33.333335876464844
+Sputum,Overall,Gram positive,Streptococcus pneumoniae,3.0,VANCOMYCIN,100.0
+Stool,Overall,,"Salmonella,Non-typhoidal",44.0,AMPICILLIN,69.76744079589844
+Stool,Overall,,"Salmonella,Non-typhoidal",44.0,CIPROFLOXACIN,59.09090805053711
+Stool,Overall,,"Salmonella,Non-typhoidal",44.0,CO-TRIMOXAZOLE,92.10526275634766
+Stool,Overall,,"Salmonella,Non-typhoidal",44.0,LEVOFLOXACIN,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,AMIKACIN,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,AMOXICILLIN / CLAVULANIC ACID,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,AMPICILLIN,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,AMPICILLIN / SULBACTAM,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFAZOLIN,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFEPIME,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFOTAXIME,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFOXITIN,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFTAZIDIME,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CEFUROXIME SODIUM (PARENTERAL),
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CIPROFLOXACIN,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,CO-TRIMOXAZOLE,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,GENTAMICIN,
+Stool,Overall,,Vibrio parahaemolyticus,2.0,IMIPENEM,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,LEVOFLOXACIN,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,MEROPENEM,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,PIPERACILLIN / TAZOBACTAM,100.0
+Stool,Overall,,Vibrio parahaemolyticus,2.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,AMIKACIN,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,AMOXICILLIN/ CLAVULANIC ACID,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,AMPICILLIN,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CEFEPIME,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CEFTAZIDIME,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CEFTRIAXONE,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CIPROFLOXACIN,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,COLISTIN BY MIC,100.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,ERTAPENEM,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,FOSFOMYCIN,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,GENTAMICIN,
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,IMIPENEM,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,LEVOFLOXACIN,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,MEROPENEM,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,PIPERACILLIN / TAZOBACTAM,0.0
+Urine,Overall,Gram negative,Acinetobacter calcoaceticus-baumannii complex,10.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,AMOXICILLIN/ CLAVULANIC ACID,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,AMPICILLIN,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFEPIME,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFOPERAZONE / SULBACTAM,85.71428680419922
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFOXITIN,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFTAZIDIME,57.142860412597656
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFTRIAXONE,42.85714340209961
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CIPROFLOXACIN,57.142860412597656
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,COLISTIN BY MIC,100.0
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,ERTAPENEM,85.71428680419922
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,GENTAMICIN,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,IMIPENEM,100.0
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,LEVOFLOXACIN,57.142860412597656
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,PIPERACILLIN / TAZOBACTAM,42.85714340209961
+Urine,Overall,Gram negative,Enterobacter cloacae,7.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,AMOXICILLIN/ CLAVULANIC ACID,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,AMPICILLIN,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFEPIME,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFOPERAZONE / SULBACTAM,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFOXITIN,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFTAZIDIME,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFTRIAXONE,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CIPROFLOXACIN,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,ERTAPENEM,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,GENTAMICIN,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,IMIPENEM,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,LEVOFLOXACIN,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,PIPERACILLIN / TAZOBACTAM,100.0
+Urine,Overall,Gram negative,Enterobacter spp.,1.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Escherichia coli,475.0,AMIKACIN,89.89473724365234
+Urine,Overall,Gram negative,Escherichia coli,475.0,AMOXICILLIN/ CLAVULANIC ACID,64.63158416748047
+Urine,Overall,Gram negative,Escherichia coli,475.0,AMPICILLIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFEPIME,
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFOPERAZONE / SULBACTAM,90.7368392944336
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFOXITIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFTAZIDIME,73.26315307617188
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFTRIAXONE,56.42105484008789
+Urine,Overall,Gram negative,Escherichia coli,475.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Escherichia coli,475.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Escherichia coli,475.0,CIPROFLOXACIN,25.052631378173828
+Urine,Overall,Gram negative,Escherichia coli,475.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Escherichia coli,475.0,COLISTIN BY MIC,98.94736862182616
+Urine,Overall,Gram negative,Escherichia coli,475.0,ERTAPENEM,94.10526275634766
+Urine,Overall,Gram negative,Escherichia coli,475.0,FOSFOMYCIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,GENTAMICIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,IMIPENEM,94.9473648071289
+Urine,Overall,Gram negative,Escherichia coli,475.0,LEVOFLOXACIN,21.47368431091309
+Urine,Overall,Gram negative,Escherichia coli,475.0,MEROPENEM,94.9473648071289
+Urine,Overall,Gram negative,Escherichia coli,475.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Escherichia coli,475.0,PIPERACILLIN / TAZOBACTAM,81.60676574707031
+Urine,Overall,Gram negative,Escherichia coli,475.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,AMIKACIN,93.06930541992188
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,AMOXICILLIN/ CLAVULANIC ACID,47.52475357055664
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,AMPICILLIN,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFEPIME,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFOPERAZONE / SULBACTAM,80.1980209350586
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFOXITIN,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFTAZIDIME,52.47525024414063
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFTRIAXONE,49.50495147705078
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CIPROFLOXACIN,32.67326736450195
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,COLISTIN BY MIC,97.02970123291016
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,ERTAPENEM,85.14851379394531
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,GENTAMICIN,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,IMIPENEM,87.12870788574219
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,LEVOFLOXACIN,32.67326736450195
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,MEROPENEM,87.12870788574219
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,PIPERACILLIN / TAZOBACTAM,61.386138916015625
+Urine,Overall,Gram negative,Klebsiella pneumoniae,101.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,AMOXICILLIN/ CLAVULANIC ACID,0.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,AMPICILLIN,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFEPIME,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFOPERAZONE / SULBACTAM,100.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFOXITIN,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFTAZIDIME,50.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFTRIAXONE,50.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CIPROFLOXACIN,50.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,ERTAPENEM,100.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,GENTAMICIN,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,IMIPENEM,100.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,LEVOFLOXACIN,50.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,PIPERACILLIN / TAZOBACTAM,50.0
+Urine,Overall,Gram negative,Klebsiella spp.,2.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Morganella morganii,7.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,AMOXICILLIN/ CLAVULANIC ACID,
+Urine,Overall,Gram negative,Morganella morganii,7.0,AMPICILLIN,
+Urine,Overall,Gram negative,Morganella morganii,7.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFEPIME,
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFOPERAZONE / SULBACTAM,83.33332824707031
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFOXITIN,
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFTAZIDIME,71.42857360839844
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFTRIAXONE,85.71428680419922
+Urine,Overall,Gram negative,Morganella morganii,7.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram negative,Morganella morganii,7.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Morganella morganii,7.0,CIPROFLOXACIN,50.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Morganella morganii,7.0,COLISTIN BY MIC,
+Urine,Overall,Gram negative,Morganella morganii,7.0,ERTAPENEM,100.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,GENTAMICIN,
+Urine,Overall,Gram negative,Morganella morganii,7.0,IMIPENEM,0.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,LEVOFLOXACIN,50.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Morganella morganii,7.0,PIPERACILLIN / TAZOBACTAM,100.0
+Urine,Overall,Gram negative,Morganella morganii,7.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,AMOXICILLIN/ CLAVULANIC ACID,33.333335876464844
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,AMPICILLIN,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFAZOLIN (U),
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFEPIME,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFOPERAZONE / SULBACTAM,94.44444274902344
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFOXITIN,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFTAZIDIME,88.8888931274414
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CEFTRIAXONE,77.77777862548828
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CIPROFLOXACIN,66.66667175292969
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,COLISTIN BY MIC,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,ERTAPENEM,94.44444274902344
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,GENTAMICIN,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,IMIPENEM,11.111111640930176
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,LEVOFLOXACIN,66.66667175292969
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,NITROFURANTOIN,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,NORFLOXACIN,
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,PIPERACILLIN / TAZOBACTAM,100.0
+Urine,Overall,Gram negative,Proteus mirabilis,18.0,TETRACYCLINE,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,AMIKACIN,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,AMOXICILLIN/ CLAVULANIC ACID,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,AMPICILLIN,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,AMPICILLIN / SULBACTAM,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CEFEPIME,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CEFOTAXIME,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CEFTAZIDIME,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CEFTRIAXONE,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CIPROFLOXACIN,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,COLISTIN BY MIC,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,ERTAPENEM,
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,IMIPENEM,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,LEVOFLOXACIN,91.66667175292967
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,MEROPENEM,100.0
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,PIPERACILLIN / TAZOBACTAM,83.33332824707031
+Urine,Overall,Gram negative,Pseudomonas aeruginosa,12.0,TETRACYCLINE,
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,AMPICILLIN,
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CEFOPERAZONE / SULBACTAM,100.0
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CEFOTAXIME,
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CEFTAZIDIME,100.0
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CEFTRIAXONE,100.0
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CHLORAMPHENICOL,
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CIPROFLOXACIN,0.0
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram negative,"Salmonella,Non-typhoidal",1.0,LEVOFLOXACIN,0.0
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,AMIKACIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,AMPICILLIN,100.0
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFAZOLIN (U),
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFOPERAZONE / SULBACTAM,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFOTAXIME,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFTAZIDIME,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFTRIAXONE,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CIPROFLOXACIN,39.80582809448242
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CLINDAMYCIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,ERYTHROMYCIN,2.91262149810791
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,FOSFOMYCIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,GENTAMICIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,GENTAMICIN 120 ΜG,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,NITROFURANTOIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,PENICILLIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,TEICOPLANIN,
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,TETRACYCLINE,8.73786449432373
+Urine,Overall,Gram positive,Enterococcus faecalis,103.0,VANCOMYCIN,99.02912139892578
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,AMIKACIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,AMPICILLIN,0.0
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFAZOLIN (U),
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFOPERAZONE / SULBACTAM,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFOTAXIME,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFTAZIDIME,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFTRIAXONE,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CEFUROXIME SODIUM (ORAL),
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CIPROFLOXACIN,0.0
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CLINDAMYCIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,CO-TRIMOXAZOLE,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,ERYTHROMYCIN,0.0
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,GENTAMICIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,GENTAMICIN 120 ΜG,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,NITROFURANTOIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,PENICILLIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,TEICOPLANIN,
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,TETRACYCLINE,11.111111640930176
+Urine,Overall,Gram positive,Enterococcus faecium,9.0,VANCOMYCIN,88.8888931274414
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,AMPICILLIN,0.0
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,CIPROFLOXACIN,0.0
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,ERYTHROMYCIN,0.0
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,GENTAMICIN 120 ΜG,
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,NITROFURANTOIN,
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,PENICILLIN,
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,TEICOPLANIN,
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,TETRACYCLINE,0.0
+Urine,Overall,Gram positive,Enterococcus spp.,1.0,VANCOMYCIN,0.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,CHLORAMPHENICOL,
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,CIPROFLOXACIN,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,CLINDAMYCIN,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,CO-TRIMOXAZOLE,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,ERYTHROMYCIN,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,GENTAMICIN,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,NITROFURANTOIN,
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,OXACILLIN,
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,PENICILLIN,0.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,TEICOPLANIN,
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,TETRACYCLINE,100.0
+Urine,Overall,Gram positive,Staphylococcus aureus,1.0,VANCOMYCIN,100.0
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CHLORAMPHENICOL,
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CIPROFLOXACIN,66.66667175292969
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CLINDAMYCIN,33.333335876464844
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,CO-TRIMOXAZOLE,66.66667175292969
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,ERYTHROMYCIN,33.333335876464844
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,GENTAMICIN,66.66667175292969
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,NITROFURANTOIN,
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,OXACILLIN,
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,PENICILLIN,0.0
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,TEICOPLANIN,
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,TETRACYCLINE,66.66667175292969
+Urine,Overall,Gram positive,"Staphylococcus,coagulase negative",3.0,VANCOMYCIN,100.0
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,AMPICILLIN,100.0
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,CEFEPIME,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,CEFOTAXIME,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,CEFTRIAXONE,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,CHLORAMPHENICOL,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,CLINDAMYCIN,100.0
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,ERYTHROMYCIN,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,LEVOFLOXACIN,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,PENICILLIN,
+Urine,Overall,Gram positive,Streptococcus agalactiae,2.0,VANCOMYCIN,100.0
